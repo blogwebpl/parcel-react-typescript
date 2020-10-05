@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"moduleResolution": "node",
+		"jsx": "react",
+		"strict": true,
+		"baseUrl": "./src",
+		"paths": {
+			"~/*": ["./*"]
+		},
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true
+	}
+}
